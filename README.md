@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 💻 I’m a passionate software developer with experience in [mention your primary programming languages or technologies].
-- 🌱 I’m currently learning [mention any new technologies or concepts you're currently learning].
+- 💻 I’m a passionate software developer with experience in python and javascript.
+- 🌱 I’m currently learning Go.
 - 👯 I’m looking to collaborate on [mention any projects or types of projects you'd like to collaborate on].
 - 🤔 I’m looking for help with [mention any areas where you're seeking help or mentorship].
 - 💬 Ask me about [mention any areas of expertise or topics you're comfortable discussing].
